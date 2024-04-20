@@ -1,2 +1,1 @@
-# SAM-Plant-Disease-Classification
-Plant Disease Classification Models with integration of segmentation model SAM.
+Plant Disease Identifucation with adaptive learning
